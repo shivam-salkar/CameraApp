@@ -11,14 +11,8 @@
 ✅ Toggle grayscale filter  
 ✅ Face detection using MediaPipe  
 ✅ Flip the camera feed horizontally  
-<<<<<<< HEAD
-❌ Settings menu (under construction)  
-❌ Video recording (not yet implemented)
-=======
 ✅ Settings menu  
 ✅ Video recording
->>>>>>> e902dad (Updated settings and added video functionality)
-
 ---
 
 ## Purpose
